@@ -1,0 +1,15 @@
+처음 오프닝 화면 "안녕하세여"
+메인 화면
+ -cctv
+ -요리 레시피
+ -자기 상태 확인
+ -카메라
+ -설정
+ -
+
+user event
+event update
+draw event
+
+setting.py
+main.py
